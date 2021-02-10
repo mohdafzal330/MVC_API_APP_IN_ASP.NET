@@ -1,0 +1,5 @@
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\DTOs\obj\Debug\DTOs.csprojResolveAssemblyReference.cache
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\DTOs\bin\Debug\DTOs.dll
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\DTOs\bin\Debug\DTOs.pdb
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\DTOs\obj\Debug\DTOs.dll
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\DTOs\obj\Debug\DTOs.pdb

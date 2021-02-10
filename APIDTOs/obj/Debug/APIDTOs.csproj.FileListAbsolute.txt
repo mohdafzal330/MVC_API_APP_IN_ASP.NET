@@ -1,0 +1,5 @@
+c:\users\abjal\documents\visual studio 2013\Projects\APIApplication\APIDTOs\bin\Debug\APIDTOs.dll
+c:\users\abjal\documents\visual studio 2013\Projects\APIApplication\APIDTOs\bin\Debug\APIDTOs.pdb
+c:\users\abjal\documents\visual studio 2013\Projects\APIApplication\APIDTOs\obj\Debug\APIDTOs.csprojResolveAssemblyReference.cache
+c:\users\abjal\documents\visual studio 2013\Projects\APIApplication\APIDTOs\obj\Debug\APIDTOs.dll
+c:\users\abjal\documents\visual studio 2013\Projects\APIApplication\APIDTOs\obj\Debug\APIDTOs.pdb

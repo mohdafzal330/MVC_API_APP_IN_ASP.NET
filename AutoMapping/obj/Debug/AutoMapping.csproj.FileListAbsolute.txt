@@ -1,0 +1,14 @@
+c:\users\abjal\documents\visual studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\AutoMapping.dll
+c:\users\abjal\documents\visual studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\AutoMapping.pdb
+c:\users\abjal\documents\visual studio 2013\Projects\APIApplication\AutoMapping\obj\Debug\AutoMapping.csprojResolveAssemblyReference.cache
+c:\users\abjal\documents\visual studio 2013\Projects\APIApplication\AutoMapping\obj\Debug\AutoMapping.dll
+c:\users\abjal\documents\visual studio 2013\Projects\APIApplication\AutoMapping\obj\Debug\AutoMapping.pdb
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\APIDL.dll
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\AutoMapper.dll
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\DTOs.dll
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\EntityFramework.dll
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\APIDL.pdb
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\DTOs.pdb
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\AutoMapper.pdb
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\AutoMapper.xml
+C:\Users\Abjal\Documents\Visual Studio 2013\Projects\APIApplication\AutoMapping\bin\Debug\EntityFramework.xml
